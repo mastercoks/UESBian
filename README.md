@@ -1,5 +1,5 @@
-Universidade Estadual do Sudoeste da Bahia - UESB
-Curso de Ciência da Computação
-Disciplina: Desenvolvimento de Jogos
-Professor: Fabio Moura Pereira
-Equipe: Matheus Coqueiro Andrade, José Pedro Cavalcante Maioli Menezes e Wandeson Almeida Amaro
+**Universidade Estadual do Sudoeste da Bahia - UESB**<br>
+**Curso de Ciência da Computação**<br>
+**Disciplina: Desenvolvimento de Jogos**<br>
+**Professor: Fabio Moura Pereira**<br>
+**Equipe: Matheus Coqueiro Andrade, José Pedro Cavalcante Maioli Menezes e Wandeson Almeida Amaro**<br><br>
